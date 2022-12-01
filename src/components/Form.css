@@ -1,0 +1,18 @@
+.loginForm {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+h1, h3 {
+    color: red;
+    font-family: courier;
+    display: flex;
+    justify-content: center;
+}
+
+.questionForm {
+    display: flex;
+    justify-content: center;
+}
